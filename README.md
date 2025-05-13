@@ -4,7 +4,7 @@ A modern, responsive SaaS landing page built using **Next.js 14**, **Tailwind CS
 
 ## 🔗 Live Demo
 
-👉 [View Live on Vercel](https://your-vercel-link.vercel.app)  
+👉 [View Live on Vercel](https://digilabs-loc.netlify.app/)  
 *(Replace this link after deployment)*
 
 ## ✨ Features
