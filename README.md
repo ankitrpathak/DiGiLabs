@@ -25,19 +25,6 @@ A modern, responsive SaaS landing page built using **Next.js 14**, **Tailwind CS
   <img src="public/screenshots/mobile-preview.png" width="300" alt="Mobile Preview" />
 </p>
 
-## 📁 Folder Structure
-
-```
-DiGiLabs/
-├── components/        # Reusable UI components (Hero, Features, Footer, etc.)
-├── pages/             # Next.js route pages
-├── public/            # Static assets, manifest, icons, screenshots
-├── styles/            # Global and utility styles
-├── next.config.js     # Next.js configuration with PWA
-├── manifest.json      # PWA manifest setup
-└── README.md          # Project documentation
-```
-
 ## 🛠️ Getting Started
 
 ### 1. Clone the Repo
